@@ -1,5 +1,5 @@
 <template>
-  <span>TEst</span>
+  <span>TE3st</span>
 </template>
 
 <script>
